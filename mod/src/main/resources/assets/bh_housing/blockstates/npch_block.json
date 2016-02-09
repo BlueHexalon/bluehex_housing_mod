@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "bh_housing:npch_block" },
+        "facing=west": { "model": "bh_housing:npch_block" }, 
+        "facing=east": { "model": "bh_housing:npch_block", "y": 180 }, 
+        "facing=north": { "model": "bh_housing:npch_block", "y": 90 }, 
+        "facing=south": { "model": "bh_housing:npch_block", "y": 270 } 
+    }
+}
